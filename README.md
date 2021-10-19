@@ -1,7 +1,8 @@
 # ZenSpace
 
-Current Deployment: https://comp-426-final-ff6de.web.app/login
-Last update: Oct 14, 2021\
+Last Deployment: Oct 14, 2021\
+Original Version: https://comp-426-final-ff6de.web.app/login \
+Last update: Oct 19, 2021\
 Owner: Alison Zhang
 
 ## React Resources
