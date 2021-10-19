@@ -1,6 +1,6 @@
 # ZenSpace
 
-Initial completion date: Oct 14, 2021\
+Current Deployment: https://comp-426-final-ff6de.web.app/login
 Last update: Oct 14, 2021\
 Owner: Alison Zhang
 
